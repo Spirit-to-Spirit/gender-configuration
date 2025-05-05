@@ -1,3 +1,5 @@
+## Gender Configuration  
+
 **Toward a Functional Description of Gender: A Minimal Model**[^10]  
 
 *Abdul Haq\* and ChatGPT*
@@ -7,7 +9,8 @@ This paper proposes a four-axis model of gender that treats sex and gender as em
 
 ---
 
-**1. Introduction**
+**1. Introduction**  
+
 Sex and gender have long been treated as binary constructs in many societies. However, evidence from biology, anthropology, and lived experience demonstrates that both are far more complex. This paper advances a functional, minimalist model of gender by identifying four independently variable axes that contribute to a person’s gendered existence: genetic sex, phenotypic presentation, endogenous alignment, and social role. We show that even under conservative assumptions, this model yields at least 36 distinct gender configurations, suggesting that diversity in gender is both natural and under-theorized.
 
 ---
@@ -55,7 +58,8 @@ Each of these could expand the taxonomy, making gender not a spectrum but a mult
 
 ---
 
-**5. Conclusion**
+**5. Conclusion**  
+
 Gender, when analyzed functionally and evolutionarily, is not a rigid binary but a multi-axial adaptive phenomenon. This minimalist model demonstrates that even with conservative assumptions, gender diversity is both natural and structured. Future work should explore higher-dimensional models that incorporate environment, neurobiology, and symbolic expression to further ground gender theory in scientific and lived realities.
 
 ---
