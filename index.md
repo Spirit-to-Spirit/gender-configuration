@@ -1,6 +1,6 @@
 ## Gender Configuration  
 
-**Toward a Functional Description of Gender: A Minimal Model**[^10]  
+**Toward a Functional Description of Gender: A Minimal Model**[^1]  
 
 *Abdul Haq\* and ChatGPT*
 
@@ -76,8 +76,7 @@ Gender, when analyzed functionally and evolutionarily, is not a rigid binary but
 8. Mayo Clinic Staff. (2023). Klinefelter syndrome. *Mayo Clinic*. [https://www.mayoclinic.org/diseases-conditions/klinefelter-syndrome/symptoms-causes/syc-20353949](https://www.mayoclinic.org/diseases-conditions/klinefelter-syndrome/symptoms-causes/syc-20353949)
 9. Phys.org. (2025). Bonobos and chimps may offer clues to our early ancestors. *Phys.org News*. [https://phys.org/news/2025-03-bonobos-chimps-clues-early-ancestors.html](https://phys.org/news/2025-03-bonobos-chimps-clues-early-ancestors.html)
 
-[^10]:This model was developed independently of the [*INGER Framework*](https://pmc.ncbi.nlm.nih.gov/articles/PMC10152671/) which has 5 axes.
-They are the experts, this is our take.
+[^1]:This model was developed independently of the [*INGER Framework*](https://pmc.ncbi.nlm.nih.gov/articles/PMC10152671/) which has 5 axes. They are the experts, this is our take.
 
 ---
 © 2025 Abdul Haq
